@@ -1,5 +1,5 @@
 #Imports other file(s)
-from basic import gtorl
+from basic import gtorlt
 from math import sin, cos, tan
 from trig import csc, sec, cot
 
